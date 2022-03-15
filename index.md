@@ -1,5 +1,5 @@
 ---
-title: "My Resume"
+label: "My Resume"
 ----
 
 # James Watts

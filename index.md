@@ -1,6 +1,6 @@
 ---
 label: "My Resume"
-----
+---
 
 # James Watts
 Title: Certified Cool guy

@@ -28,9 +28,10 @@ You will be adding 2 additional files for a total of 3 files (including your REA
 #### **Your Resume**
 1. Create a new file by selecting **Create new file** under the **Add file** drop down.
 2. Name this file **index.md**
-3. Inside of index.md paste your **markdown formatted resume**
+3. Paste your **markdown formatted resume** inside of index.md
 4. Write a description for your file commit
     * This is important for *Distributed Version Control* as highlighted in Etter's book.
+    * This is also the minimum basis of 'Basic Functional Documentation' discussed in *Modern Technical Writting*
 5. Finally, Commit your file by pressing **Commit new file**.
 
 #### **Configuration File**
@@ -72,5 +73,4 @@ Markdown is useful for fast and easy formatting without having to use your mouse
 #### **2. All I see is a GitHub page where is my resume?**
 
 Ensure that you have navigated tot he appropriate web address. While looking at your repository click on the address bar (it should read *github.com/your-name/your-name.github.io*) and remove "*github.com/your-name/*" leaving only "*your-name.github.io*" which will be your static resume website
-
 

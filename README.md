@@ -5,7 +5,7 @@ A practical guide on how to host and format a markdown resume on github, followi
 **Prerequisites:**  
 1. Resume formatted in markdown.
 2. Github account
-3. Andrew Etter's book Modern Technical writting
+3. Andrew Etter's book Modern Technical writing
 
 ### **Navigate and GitHub Homepage**  
 Log-in to your GitHub account and navigate to the [GitHub](github.com) homepage.  

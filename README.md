@@ -1,6 +1,6 @@
 # How Upload your Resume to GitHub
 
-A practical guide on how to host and format a markdown resume on github, following the stpes laid out by Andrew Etter in his book Modern Technical Writting.
+A practical guide on how to host and format a markdown resume on github, following the steps laid out by Andrew Etter in his book Modern Technical Writing.
 
 **Prerequisites:**  
 1. Resume formatted in markdown.
@@ -11,11 +11,11 @@ A practical guide on how to host and format a markdown resume on github, followi
 Log-in to your GitHub account and navigate to the [GitHub](github.com) homepage.  
 
 ### **<ins>Creating a Repository</ins>**
-1. On your GitHub homepage create a new repository by clicking 'New' under 'Recent Repositories' on the leftside of the page.
+1. On your GitHub homepage create a new repository by clicking 'New' under 'Recent Repositories' on the left side of the page.
 2. Set your repository name to be [GitHubUserName].io
     * ex. If your username is "example-name" then your Repository should be named "example-name.io"
 3. Ensure that your repository is set to **Public**
-4. Check the box lablled 'Add a README file'
+4. Check the box labelled 'Add a README file'
     * This will auto generate an empty README.md file which will be used later.
 
 ### **<ins>Adding Files</ins>**
@@ -31,7 +31,7 @@ You will be adding 2 additional files for a total of 3 files (including your REA
 3. Paste your **markdown formatted resume** inside of index.md
 4. Write a description for your file commit
     * This is important for *Distributed Version Control* as highlighted in Etter's book.
-    * This is also the minimum basis of 'Basic Functional Documentation' discussed in *Modern Technical Writting*
+    * This is also the minimum basis of 'Basic Functional Documentation' discussed in *Modern Technical Writing*
 5. Finally, Commit your file by pressing **Commit new file**.
 
 #### **Configuration File**
@@ -56,7 +56,7 @@ Your resume formatted in **markdown** with the jekyll theme **slate** should app
 
 ### **<ins>More Resources</ins>**
 1. A useful [tutorial](https://agea.github.io/tutorial.md/) for GitHub flavoured Markdown.
-2. [Andrew Etter's book Modern Technical Writting](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+2. [Andrew Etter's book Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 3. A [tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) for making static websites with jekyll and GitHub 
 
 ### **<ins>Authors and Acknowledgments</ins>**

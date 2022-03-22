@@ -63,6 +63,8 @@ Your resume formatted in **markdown** with the jekyll theme **slate** should app
 
 Thanks to [Ben Balter](https://github.com/benbalter) and [contributors](https://github.com/pages-themes/slate/graphs/contributors) for their work on the jekyll slate theme
 
+Special thanks to my group mates: Nitya Seth, Alex Kitt, Jarett Koley and Daniel Makarchuk
+
 
 ### **<ins>FAQ</ins>**
 
